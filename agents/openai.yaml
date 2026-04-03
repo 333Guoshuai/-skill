@@ -1,0 +1,3 @@
+interface:
+  display_name: "Formula LaTeX Normalizer"
+  short_description: "Generate and normalize LaTeX equations for mechanical, robotics, and control papers."
